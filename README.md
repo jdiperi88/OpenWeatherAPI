@@ -1,6 +1,6 @@
-# HOMEWORK: [name of homework]
+# HOMEWORK: Practice with SQL and APIs!!
 
-[introduction, clever gifs]
+![bobby tables](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
 
 ## 🚀 Completion looks like:
 
