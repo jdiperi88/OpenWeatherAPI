@@ -4,12 +4,16 @@
 
 ## 🚀 Completion looks like:
 
-[all the steps they have to follow]
+- You have completed the [SQL practice](./sql-movies) part of the homework.
+    - Your readme.md has been filled in with the appropriate SQL commands.
+- You have completed the [API practice](./weather) part of the homework.
+    - Your `main.js` and `index.html` files have been filled out
+    - You have uploaded your weather app to bitballoon
 
 ## 🚀 Your homework submission should include:
 
 - A pull request created on _this repo_.
-- [any additional steps]
+- A link to the BitBalloon upload of your weather app
 - Completion, comfort, wins, losses, questions... you know the drill.
 
-## This homework is due 🚨 11PM ON [night] 🚨
+## This homework is due 🚨 11PM ON WEDNESDAY NIGHT 🚨
