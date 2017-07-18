@@ -9,6 +9,7 @@
 - You have completed the [API practice](./weather) part of the homework.
     - Your `main.js` and `index.html` files have been filled out
     - You have uploaded your weather app to bitballoon
+- You have read [The Web's Grain](https://www.frankchimero.com/writing/the-webs-grain/) in preparation for Thursday's lecture.
 
 ## 🚀 Your homework submission should include:
 
