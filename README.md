@@ -4,8 +4,8 @@
 
 ## 🚀 Completion looks like:
 
-- You have completed the [SQL practice](./sql-movies) part of the homework.
-    - Your readme.md has been filled in with the appropriate SQL commands.
+- You have completed the [SQL practice](./sql) part of the homework.
+    - Your `clues.sql` has been filled in with the appropriate SQL commands.
 - You have completed the [API practice](./weather) part of the homework.
     - Your `main.js` and `index.html` files have been filled out
     - You have uploaded your weather app to bitballoon
