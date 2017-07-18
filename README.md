@@ -1,6 +1,6 @@
 # HOMEWORK: Practice with SQL and APIs!!
 
-![bobby tables](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
+![sql](./sql-is-everywhere.jpg)
 
 ## 🚀 Completion looks like:
 
