@@ -28,7 +28,7 @@ You might need this on your journey to find Carmen...
 
 ### Setup
 
-Making sure you're in the directory `HW_U02_D05_More-SQL-Express-Routes/sql`, type the command `psql -f seed.sql`.
+Making sure you're in the directory `HW_U02_D02_SQL_APIs/sql`, type the command `psql -f seed.sql`.
 
 Then, use the clues below to create the appropriate SQL queries to help you find Carmen and then, tell us where she's heading!!
 
